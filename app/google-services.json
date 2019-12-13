@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527685509046",
+    "firebase_url": "https://demomvpfirebase-5323f.firebaseio.com",
+    "project_id": "demomvpfirebase-5323f",
+    "storage_bucket": "demomvpfirebase-5323f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527685509046:android:35a4cf2c98cbf9172dab17",
+        "android_client_info": {
+          "package_name": "com.example.demomvpfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527685509046-pamv38pjuoml3d3ppitf1os1jrsrfaeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demomvpfirebase",
+            "certificate_hash": "6e37691b6a6ea020e00386bd467e382e2fde604a"
+          }
+        },
+        {
+          "client_id": "527685509046-cumm37aqmu89nrdv34lvqjtvda3a9qc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUlsOQt31R-MnR2cbS2GEhjKGeSLPtVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527685509046-cumm37aqmu89nrdv34lvqjtvda3a9qc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
